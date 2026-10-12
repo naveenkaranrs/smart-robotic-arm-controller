@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 // === CHANGE THESE ===
-const char* ssid = "Harish";
-const char* password = "12345678";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 ESP8266WebServer server(80);
 

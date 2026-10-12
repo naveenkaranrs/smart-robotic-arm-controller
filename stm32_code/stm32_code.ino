@@ -69,4 +69,3 @@ void loop() {
   
   delay(10);  // Small delay for stability
 }
-stm code
